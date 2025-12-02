@@ -1,2 +1,7 @@
 FROM nginx:alpine
 COPY . /usr/share/nginx/html
+
+
+Username: Admin
+Password: 88d5b6c2fe544432a5b755055401d4c1
+https://undapper-equably-soon.ngrok-free.dev/
